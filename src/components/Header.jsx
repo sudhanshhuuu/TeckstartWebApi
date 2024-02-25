@@ -11,8 +11,8 @@ export default function Header() {
         <main>
             <HashLink to={'/TeckstartWebApi'}>Home</HashLink>
             <Link to={'/contact'}>Contact</Link>
-            <HashLink to={'/about'}>About</HashLink>
-            <HashLink to={'/brands'}>Brands</HashLink>
+            <HashLink to={'TeckstartWebApi/#about'}>About</HashLink>
+            <HashLink to={'TeckstartWebApi/#brands'}>Brands</HashLink>
             <Link to={'/services'}>Services</Link>
         </main>
     </nav>
