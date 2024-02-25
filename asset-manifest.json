@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TeckstartWebApi/static/css/main.cc329dd5.css",
-    "main.js": "/TeckstartWebApi/static/js/main.0ae6338f.js",
+    "main.js": "/TeckstartWebApi/static/js/main.ecacf080.js",
     "static/media/msi2.jpg": "/TeckstartWebApi/static/media/msi2.d39a746c08f2d8ba566c.jpg",
     "static/media/dragon.png": "/TeckstartWebApi/static/media/dragon.0b8f5521bf08091ce988.png",
     "static/media/msi1.jpg": "/TeckstartWebApi/static/media/msi1.09d02556e9f3106bb965.jpg",
     "index.html": "/TeckstartWebApi/index.html",
     "main.cc329dd5.css.map": "/TeckstartWebApi/static/css/main.cc329dd5.css.map",
-    "main.0ae6338f.js.map": "/TeckstartWebApi/static/js/main.0ae6338f.js.map"
+    "main.ecacf080.js.map": "/TeckstartWebApi/static/js/main.ecacf080.js.map"
   },
   "entrypoints": [
     "static/css/main.cc329dd5.css",
-    "static/js/main.0ae6338f.js"
+    "static/js/main.ecacf080.js"
   ]
 }
